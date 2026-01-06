@@ -1,6 +1,3 @@
-
-
-
 from duckduckgo_search import DDGS
 
 def scout_brand_mentions(brand_name: str):
