@@ -1,6 +1,3 @@
-
-
-
 from langchain_community.chat_models.ollama import ChatOllama
 from rag.query import get_brand_rules
 
